@@ -1,4 +1,4 @@
-# Langchain Groq Chain of Agents Example
+# Chain of Agents Example (using Langchain)
 
 This project demonstrates a simple chain of Langchain agents using Groq's language models. It includes two agents that perform sequential tasks:
 
